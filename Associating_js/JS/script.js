@@ -1,6 +1,7 @@
 /**
  * Created by Suika on 1/16/14.
  */
-var a;
+var a=2;
 
-=a+3;
+a=a+3;
+console.log(a);
