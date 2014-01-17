@@ -1,7 +1,5 @@
-/**
- * Created by Suika on 1/16/14.
- */
-var a=2;
+var yearBorn=1981;
+var age=2013- yearBorn;
+console.log(age);
 
-a=a+3;
-console.log(a);
+
