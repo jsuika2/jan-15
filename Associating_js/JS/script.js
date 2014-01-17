@@ -1,12 +1,7 @@
+var orangeBins =[234,567,883];
 
+var total = orangeBins[0] + orangeBins[1] + orangeBins[2];
 
+console.log (total);
 
-
-var quiz1=87;
-var quiz2=100;
-var quiz3=60;
-var quiz4=80;
-
-var average= (quiz1+quiz2+quiz3+quiz4)/4;
-
-console.log(average);
+//total is 1684
